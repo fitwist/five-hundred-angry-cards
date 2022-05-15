@@ -1,0 +1,25 @@
+{
+  "name": "five-hundred-angry-cards",
+  "version": "1.0.0",
+  "description": "Бот для Zoom-версии игры \"500 злобных карт\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitwist/five-hundred-angry-cards.git"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "Helen Kapatsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitwist/five-hundred-angry-cards/issues"
+  },
+  "homepage": "https://github.com/fitwist/five-hundred-angry-cards#readme",
+  "dependencies": {
+    "telegraf": "^4.8.2"
+  }
+}

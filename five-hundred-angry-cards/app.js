@@ -2,7 +2,7 @@
 
 const { Telegraf } = require('telegraf')
 
-const bot = new Telegraf('5144377543:AAEJOYV_FiZvUTtR2U0XiXuJ2UA5JEQ5vlA');
+const bot = new Telegraf('Вставьте токен BotFather');
 
 // Функция для генерирования случайного числа в диапазоне от n до m
 function range(start, end) {

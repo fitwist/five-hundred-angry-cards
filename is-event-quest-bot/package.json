@@ -1,0 +1,14 @@
+{
+  "name": "is-event-quest-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helen Kapatsa",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.8.2"
+  }
+}
